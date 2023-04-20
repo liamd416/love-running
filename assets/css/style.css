@@ -16,7 +16,7 @@ h1, h2, h3{
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #979393;
     text-align: center;
 }
 
@@ -333,7 +333,7 @@ footer {
     h1, h2 {
         text-align: center;
     }
-    
+
     #photos {
         column-count: 2;
     }
